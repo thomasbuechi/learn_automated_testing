@@ -14,7 +14,7 @@ public class MainTest {
     @Test
     public void testMultiply(){
         assertEquals(20, Main.testMultiply(4,5));
-        assertEquals(30, Main.testMultiply(6,5));
+        assertEquals(21, Main.testMultiply(6,5));
     }
 
 }
